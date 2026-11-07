@@ -1,0 +1,1 @@
+-- Flyway migration V1 - schema to be defined
